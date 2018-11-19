@@ -1,0 +1,13 @@
+00000001	railway_empty
+00000002	railway_empty
+00000003	railway_empty
+00000004	railway_empty
+00000005	railway_empty
+00000006	railway_hard
+00000007	railway_hard
+00000008	railway_hard
+00000009	railway_hard
+00000010	railway_empty
+00000011	railway_empty
+00000012	railway_empty
+00000013	railway_empty

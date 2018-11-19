@@ -1,0 +1,10 @@
+Class_num = 2
+Class = ['railway_empty','railway_hard']
+Batch_size = 2
+Input_seq_len = 5
+Input_dim = 2048
+Pic_dir = r'./picture_row'
+Npy_dir = r'./picture_npy'
+Label_txt = r'./picture_info/label.txt'
+Train_list_txt = r'./picture_info/train.txt'
+Val_list_txt = r'./picture_info/val.txt'
